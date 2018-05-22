@@ -1,0 +1,44 @@
+.text-center{
+  text-align: center;
+}
+.card-block{
+  padding: 10px;
+}
+.card-img-top{
+  width: 100%;
+}
+.card-header,first-child{
+  background-color: #C17777;
+}
+/*Call to Action*/
+
+.header-line {
+  height: 5px;
+  width: 100%;
+  content: '';
+  display: block;
+}
+.gradient-color-1{
+     background: -webkit-linear-gradient(left,#fc636b 0,#ff6d92 60%,#fd9a00 100%);
+    background: linear-gradient(to right,#fc636b 0,#ff6d92 60%,#fd9a00 100%);
+}
+.gradient-color-2{
+    background: #3be8b0;
+    background: -webkit-linear-gradient(bottom left,#3be8b0 0,#02ceff 100%);
+    background: linear-gradient(to top right,#3be8b0 0,#02ceff 100%);
+}
+/**/
+/*Utility Class*/
+.text-white{
+  color: #000;
+}
+.no-margin{
+  margin:0;
+}
+.no-margin-top{
+  margin-top:0;
+}
+.pad-right{
+  margin-right: 0.5em;
+}
+/**/
